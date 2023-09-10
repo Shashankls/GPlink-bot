@@ -5,8 +5,8 @@
         "telegram",
         "sharedisk"
     ],
-    "website": "https://github.com/Mahesh0253/GPlink-bot",
-    "repository": "https://github.com/Mahesh0253/GPlink-bot",
+    "website": "https://github.com/Shashankls/GPlink-bot",
+    "repository": "https://github.com/Shashankls/GPlink-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
