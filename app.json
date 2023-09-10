@@ -10,7 +10,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": ""
+            "value": "5713036325:AAGH67zidu6RDrFrpc3DU11gwIAqMYnk620"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
@@ -22,7 +22,7 @@
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
-            "value": ""
+            "value": "c8ce5ce72bbc4eeea88fa44ce14e06f6e53646b1"
         }
     },
     "addons": [],
