@@ -1,9 +1,9 @@
 {
-    "name": "GPlink_Bot",
+    "name": "sharedisk_Bot",
     "description": "Make short link by using GPlink API key",
     "keywords": [
         "telegram",
-        "gplink"
+        "sharedisk"
     ],
     "website": "https://github.com/Mahesh0253/GPlink-bot",
     "repository": "https://github.com/Mahesh0253/GPlink-bot",
