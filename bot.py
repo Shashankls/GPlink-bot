@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 
 API_ID = environ.get('API_ID',"16621664")
 API_HASH = environ.get('API_HASH',"8b283f2943729318995738b5963f0bcc")
-BOT_TOKEN = environ.get('BOT_TOKEN',"6481747101:AAGWlS6827hs7U6Xu8CMR9S_GSWb6MyVCPU")
+BOT_TOKEN = environ.get('BOT_TOKEN',"6818106042:AAHNMl3BzDewSO3ndKolTaoN-Cpt-POAKj4")
 API_KEY = environ.get('API_KEY',"c8ce5ce72bbc4eeea88fa44ce14e06f6e53646b1")
 
 bot = Client('sharedisk bot',
